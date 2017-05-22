@@ -1,2 +1,3 @@
-# PR2_Tractament_i_publicaci-_d-udio
-PR2_Tractament_i_publicació d'àudio
+# PR2 Tractament i publicació d'àudio
+PR2 Tractament i publicació d'àudio
+- Processing with Minim library using Oscil objects and Noise Objects, Vocoder and other stuff.
